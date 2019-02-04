@@ -1,5 +1,5 @@
-camera {0,5,5}
-view_direction {0,-1,0}
+camera {0,2,-10}
+view_direction {-0.1,0,0}
 spot_light {1,1,2} 1
 
 CONE
