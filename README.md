@@ -21,3 +21,15 @@ BONUS PART:
 <img src="https://github.com/nkuchyna/RTv1/blob/master/screenshots/cone.png" data-canonical-src="cone" width="400"/>
 <img src="https://github.com/nkuchyna/RTv1/blob/master/screenshots/all_objects.png" data-canonical-src="all_objects" width="400"/>
 <img src="https://github.com/nkuchyna/RTv1/blob/master/screenshots/hall.png" data-canonical-src="hall" width="400"/>
+
+<table style="width:100%">
+  <tr>
+    <td><img src="https://github.com/nkuchyna/RTv1/blob/master/screenshots/sphere.png" data-canonical-src="sphere" width="400"/></td>
+    <td><img src="https://github.com/nkuchyna/RTv1/blob/master/screenshots/sphere.png" data-canonical-src="sphere" width="400"/></td> 
+  </tr>
+  <tr>
+    <td><img src="https://github.com/nkuchyna/RTv1/blob/master/screenshots/sphere.png" data-canonical-src="sphere" width="400"/></td>
+    <td><img src="https://github.com/nkuchyna/RTv1/blob/master/screenshots/sphere.png" data-canonical-src="sphere" width="400"/></td> 
+  </tr>
+  
+</table>
