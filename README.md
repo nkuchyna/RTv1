@@ -17,7 +17,7 @@ BONUS PART:
 - multi-spots;
 - shine effect.
 
-<img src="https://github.com/nkuchyna/RTv1/blob/master/screenshots/sphere.png" data-canonical-src="sphere" width="200"/>
-![Screenshot](https://github.com/nkuchyna/RTv1/blob/master/screenshots/cone.png)
-![Screenshot](https://github.com/nkuchyna/RTv1/blob/master/screenshots/all_objects.png)
-![Screenshot](https://github.com/nkuchyna/RTv1/blob/master/screenshots/hall.png)
+<img src="https://github.com/nkuchyna/RTv1/blob/master/screenshots/sphere.png" data-canonical-src="sphere" width="400"/>
+<img src="https://github.com/nkuchyna/RTv1/blob/master/screenshots/cone.png" data-canonical-src="cone" width="400"/>
+<img src="https://github.com/nkuchyna/RTv1/blob/master/screenshots/all_objects.png" data-canonical-src="all_objects" width="400"/>
+<img src="https://github.com/nkuchyna/RTv1/blob/master/screenshots/hall.png" data-canonical-src="hall" width="400"/>
