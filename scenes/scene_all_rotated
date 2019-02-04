@@ -1,0 +1,36 @@
+camera {0,1,-10}
+view_direction {0,0,0}
+spot_light {1,0,2} 0.8
+
+
+CYLINDER
+specular 50
+center {1,2,5}
+direction {1,1,0}
+color {255,255,0}
+radius 0.5
+
+PLANE
+specular -1
+center {0,-0.5,5}
+direction {0,0.8,-0.3}
+color {150,150,150}
+
+PLANE
+specular -1
+center {0,-0.7,8}
+direction {0,0,1}
+color {23,41,150}
+
+CONE
+specular 30
+ang 1
+center {1.5,0,5}
+direction {-0.5,0.5,0}
+color {62,237,62}
+
+SPHERE
+specular 20
+center {0,0,5}
+color {255,0,0}
+radius 0.8

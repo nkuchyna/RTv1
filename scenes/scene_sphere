@@ -1,0 +1,9 @@
+camera {0,2,-5}
+view_direction {-0.2,0,0}
+spot_light {1,0,2} 1
+
+SPHERE
+specular 20
+center {0,0,5}
+color {255,73,0}
+radius 0.8

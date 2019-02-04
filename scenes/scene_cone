@@ -1,0 +1,16 @@
+camera {0,5,5}
+view_direction {0,-1,0}
+spot_light {1,1,2} 1
+
+CONE
+specular 150
+ang 0.8
+center {0,0,5}
+direction {0,1,0}
+color {62,237,62}
+
+PLANE
+specular -1
+center {0,-1,0}
+direction {0,-1,0}
+color {150,150,150}

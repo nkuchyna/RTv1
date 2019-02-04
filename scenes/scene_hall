@@ -1,0 +1,105 @@
+camera {0,1,-12}
+view_direction {0,0,0}
+spot_light {4,1,-6} 0.5
+spot_light {0,2,-6} 0.5
+spot_light {-4,1,-6} 0.5
+
+CYLINDER
+specular 50
+center {1.5,2,-2}
+direction {0,1,0}
+color {180,180,180}
+radius 0.3
+
+CYLINDER
+specular 50
+center {-1.5,2,-2}
+direction {0,1,0}
+color {180,180,180}
+radius 0.3
+
+CYLINDER
+specular 50
+center {1.5,2,4}
+direction {0,1,0}
+color {180,180,180}
+radius 0.3
+
+CYLINDER
+specular 50
+center {-1.5,2,4}
+direction {0,1,0}
+color {180,180,180}
+radius 0.3
+
+PLANE
+specular 10
+center {0,-0.5,5}
+direction {0,1,0}
+color {150,150,150}
+
+PLANE
+specular 10
+center {0,3.5,5}
+direction {0,1,-0.1}
+color {150,150,150}
+
+PLANE
+specular -1
+center {0,-0.7,10}
+direction {0,0,1}
+color {23,41,150}
+
+SPHERE
+specular 20
+center {0,0,-2}
+color {255,0,0}
+radius 0.3
+
+SPHERE
+specular 20
+center {-1.5,2.7,-2}
+color {170,170,170}
+radius 0.5
+
+SPHERE
+specular 20
+center {1.5,2.7,-2}
+color {170,170,170}
+radius 0.5
+
+SPHERE
+specular 20
+center {-1.5,-0.4,-2}
+color {170,170,170}
+radius 0.5
+
+SPHERE
+specular 20
+center {1.5,-0.4,-2}
+color {170,170,170}
+radius 0.5
+
+SPHERE
+specular 20
+center {-1.5,3.3,4}
+color {170,170,170}
+radius 0.5
+
+SPHERE
+specular 20
+center {1.5,3.3,4}
+color {170,170,170}
+radius 0.5
+
+SPHERE
+specular 20
+center {-1.5,-0.4,4}
+color {170,170,170}
+radius 0.5
+
+SPHERE
+specular 20
+center {1.5,-0.4,4}
+color {170,170,170}
+radius 0.5

@@ -1,0 +1,10 @@
+camera {0,2,-5}
+view_direction {-0.1,0,0}
+spot_light {1,0,2} 1
+
+CYLINDER
+specular 50
+center {0,0,5}
+direction {0,1,0}
+color {0,175,100}
+radius 0.5
