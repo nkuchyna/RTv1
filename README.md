@@ -1,5 +1,6 @@
 # RTv1
 Simple Ray Tracer on C | UNIT Factory | The first step to create a Raytracing program
+-------------------------------------------------------------------------------------
 
 The goal of this project was to create program to generate images according to Raytracing protocol (selfmade file format to describe scenes). Those computer generated images will each represent a scene, as seen from a specific angle and position, defined by simple geometric objects, and each with its own lighting system.
 
